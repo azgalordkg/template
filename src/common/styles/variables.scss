@@ -1,0 +1,74 @@
+// *** COLORS *** //
+$white: #fff;
+$bsTextColor: #383838;
+
+
+// Project Colors
+
+// Brands color
+
+// *** TEXT *** //
+// - font-size
+$size-grid-unit: 0.5rem;
+
+$h1-font-size: 2.75rem;
+$h2-font-size: 2.5rem;
+$h3-font-size: 2rem;
+$h4-font-size: 1.75rem;
+$h5-font-size: 1.5rem;
+$h6-font-size: 1.125rem;
+
+
+$text-font-size: 1rem;
+
+$xsFontSize: .75rem;
+$smFontSize: .875rem;
+$bsFontSize: 1rem;
+$mdFontSize: 1.125rem;
+$lgFontSize: 1.25rem;
+$xlFontSize: 2rem;
+
+// - line-height
+$xsLineHeight: 16px;
+$smLineHeight: 18px;
+$bsLineHeight: 22px;
+$mdLineHeight: 36px;
+$lgLineHeight: 40px;
+
+$deleteLineHeight: 0;
+$staticLineHeight: 1;
+
+// - letter-spacing
+$bsLetterSpacing: 0.02em;
+
+
+// *** BORDER *** //
+// - radius
+$bsBorderRadius:  4px;
+$mdBorderRadius:  10px;
+$circleRadius:    50%;
+$roundRadius:     55px;
+
+
+$size-grid-unit:  0.5rem; // Where is it used?
+
+// *** Media width *** //
+$xs-media:    0px;
+$more-xs-media: 321px;
+$sub-sm-media:  430px;
+$sm-media:    576px;
+$more-sm-media: 706px;
+$md-media:    768px;
+$lg-media:    992px;
+$xl-media:    1200px;
+$xxl-media:   1400px;
+
+// *** Font family *** //
+
+//Blocks
+$xsMapContentWidth:   50%;
+$smMapContentWidth:   50%;
+$mdMapContentWidth:   50%;
+$lgMapContentWidth:   50%;
+$xlMapContentWidth:   50%;
+$xxlMapContentWidth:  50%;

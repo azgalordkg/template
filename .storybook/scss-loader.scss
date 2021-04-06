@@ -1,0 +1,14 @@
+@import "/node_modules/antd/dist/antd.min.css";
+@import "/node_modules/react-image-gallery/styles/scss/image-gallery";
+@import "/node_modules/slick-carousel/slick/slick.css";
+@import "/node_modules/slick-carousel/slick/slick-theme.css";
+
+@import "../src/common/styles/normalize";
+@import "../src/common/styles/variables";
+
+// Global
+@import "../src/common/styles/modules/global-styles";
+
+// Components
+@import "../src/common/styles/components/someComponent";
+

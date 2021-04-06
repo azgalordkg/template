@@ -1,0 +1,27 @@
+@import "/node_modules/antd/dist/antd.min.css";
+@import "/node_modules/react-image-gallery/styles/scss/image-gallery";
+
+// Presets
+@import "normalize";
+@import "fonts";
+@import "variables";
+@import "mixins";
+@import "animations";
+@import "main";
+
+// Global
+@import "modules/global-styles";
+
+// Main-content
+
+// Components
+@import "./components/someComponent";
+
+// Common
+
+// Segments
+
+// Pages
+
+
+// *** Media *** //
