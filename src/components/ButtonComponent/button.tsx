@@ -1,8 +1,9 @@
 import React from "react";
 import {Button} from "antd";
 
-export const ButtonComponent = () => {
+// @ts-ignore
+export const ButtonComponent = ({text}) => {
   return (
-    <Button type="primary">Test Button</Button>
+    <Button type="primary">{text}</Button>
   )
 };
