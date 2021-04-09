@@ -1,6 +1,6 @@
 import React, { ComponentProps } from "react";
 import { Story } from "@storybook/react/types-6-0";
-import {ButtonComponent} from "@components/ButtonComponent/button";
+import {ButtonComponent} from "@components/ButtonComponent/ButtonComponent";
 
 export default {
   title: "ButtonComponent",

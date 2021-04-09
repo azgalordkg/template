@@ -1,7 +1,7 @@
 import React, { ComponentProps } from "react";
 import { Story } from "@storybook/react/types-6-0";
 import {TableComponent} from "@components/TableComponent/TableComponent";
-import { columns, dataSource } from "@components/TableComponent/constants";
+import { columns, dataSource } from "@components/constants";
 
 export default {
   title: "TableComponent",
